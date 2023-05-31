@@ -44,7 +44,7 @@ while True:
 	s.send("Recieved".encode())
 ```
 
-#CLIENT OUTPUT :
+# CLIENT OUTPUT :
 ![client](https://github.com/Skanthasishanth/19CS406-EX-1/assets/118298456/651a2e90-1b67-4000-a863-c0d5ea3cd510)
 
 # SERVER OUTPUT :
