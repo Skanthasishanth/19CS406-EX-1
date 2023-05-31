@@ -1,9 +1,9 @@
 
 # STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
 
-# EXP: 1
+# EXP : 1
 
-# DATE :08-03-2023
+# DATE : 08-03-2023
 
 # AIM :
 ## To write a python program to perform stop and wait protocol
